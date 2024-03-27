@@ -1,0 +1,30 @@
+<xsd:complexType name="ItemType">
+  <xsd:sequence>
+    <xsd:element name="title" type="xsd:string"/>
+    <xsd:element name="link" type="xsd:anyURI"/>
+    <xsd:element name="description" type="xsd:string"/>
+    <xsd:element name="category" type="xsd:string" minOccurs="0"/>
+    <xsd:element name="pubDate" type="xsd:string">
+      <xsd:attribute name="date" type="xsd:date" use="required"/>
+    </xsd:element>
+    <xsd:element name="guid" type="xsd:string"/>
+  </xsd:sequence>
+</xsd:complexType>
+
+<xsd:element name="rss">
+  <xsd:complexType>
+    <xsd:sequence>
+      <xsd:element name="channel">
+        <xsd:complexType>
+          <xsd:sequence>
+            <xsd:element name="title" type="xsd:string"/>
+            <xsd:element name="link" type="xsd:anyURI"/>
+            <xsd:element name="description" type="xsd:string"/>
+            <xsd:element name="item" type="ItemType" minOccurs="0" maxOccurs="unbounded"/>
+          </xsd:sequence>
+          <xsd:attribute name="version" type="xsd:string" fixed="2.0"/>
+        </xsd:complexType>
+      </xsd:element>
+    </xsd:sequence>
+  </xsd:complexType>
+</xsd:element>
