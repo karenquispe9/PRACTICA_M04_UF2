@@ -41,14 +41,86 @@ JUNY
 
 
 JULIOL 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Noticias de Política - El País</title>
+    <link>https://elpais.com/espana/comunidad-valenciana/</link>
+    <description>Noticias políticas recientes de la Comunidad Valenciana.</description>
+    <item>
+        <title>Puig afirma que hay esperanza en las futuras elecciones y se considera leal a Sánchez</title>
+        <link>https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</link>
+        <description>El presidente de la Generalitat Valenciana expresa su apoyo continuo y habla sobre la justicia en el trato a Sánchez en la política actual.</description>
+        <category>Política</category>
+        <pubDate>Mon, 03 Jul 2023 22:51:00 CEST</pubDate>
+        <guid isPermaLink="true">https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</guid>
+        <enclosure url="https://imagenes.elpais.com/resizer/HPKyJhELumnMCPXevtlomt_e7IY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ3PN5IM2NI5B2YXJ3DM4ABPJM.jpg" length="100000" type="image/jpeg"/>
+    </item>
+</channel>
+</rss>
 
 
+AGOSTO
 
-AGOST 
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Noticias de Chile - El País</title>
+    <link>https://elpais.com/chile/</link>
+    <description>Noticias políticas destacadas de Chile.</description>
+    <item>
+        <title>Boric hace declaraciones controversiales referentes a la política y un caso histórico</title>
+        <link>https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</link>
+        <description>El presidente de Chile, Gabriel Boric, ha provocado reacciones con comentarios sobre un caso emblemático de justicia para un músico célebre.</description>
+        <category>Política</category>
+        <pubDate>Wed, 30 Aug 2023 23:50:00 CEST</pubDate>
+        <guid isPermaLink="true">https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</guid>
+</channel>
+</rss>
 
 
 
 SETEMBRE
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Noticias de Espectáculos en Córdoba - ABC</title>
+    <link>https://www.abc.es/espana/andalucia/cordoba/</link>
+    <description>Cobertura de eventos y espectáculos en Córdoba.</description>
+    <item>
+        <title>El vibrante concierto de Pablo López en Córdoba</title>
+        <link>https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</link>
+        <description>Pablo López entusiasma a sus seguidores con un espectacular concierto en el Teatro de la Axerquía, un evento memorable para la ciudad de Córdoba.</description>
+        <category>Cultura</category>
+        <pubDate>Fri, 29 Sep 2023 23:21:53 CEST</pubDate>
+        <guid isPermaLink="true">https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</guid>
+        <enclosure url="https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/29/pablo-lopez-cordoba(5)-U40555783825QgU-1200x840@abc.jpeg" length="100000" type="image/jpeg"/>
+    </item>
+</channel>
+</rss>
+
+
+OCTUBRE
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+<channel>
+    <title>Cultura Taurina - El Mundo</title>
+    <link>https://www.elmundo.es/cultura/toros/</link>
+    <description>Noticias y eventos de la cultura taurina.</description>
+    <item>
+        <title>Recuerdo de Daniel Luque en la Feria de Otoño: una actuación entre la tradición y la controversia</title>
+        <link>https://www.elmundo.es/cultura/toros/2023/10/07/6521750ae9cf4a1c7b8b45cc.html</link>
+        <description>El torero Daniel Luque destaca en la Feria de Otoño, dejando huella con su actuación en el ruedo, entre elogios y críticas por la naturaleza del evento.</description>
+        <category>Cultura</category>
+        <pubDate>Sat, 07 Oct 2023 20:56:00 CEST</pubDate>
+        <guid isPermaLink="true">https://www.elmundo.es/cultura/toros/2023/10/07/6521750ae9cf4a1c7b8b45cc.html</guid>
+        <enclosure url="https://phantom-elmundo.unidadeditorial.es/1d8da0cb3010d7d42777b0a47f6974f2/crop/216x183/941x666/resize/473/f/webp/assets/multimedia/imagenes/2023/10/07/16967048667280.jpg" length="100000" type="image/jpeg"/>
+    </item>
+</channel>
+</rss>
+
 
 
 
