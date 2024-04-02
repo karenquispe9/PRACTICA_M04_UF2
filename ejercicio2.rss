@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+    <channel>
+        <!-- 2 noticias Economia-->
+        <description>El Periódico - Todas las noticias de la sección economia</description>
+        <language>es</language>
+        <link>https://www.elperiodico.com/es/</link>
+        <pubDate>Tue, 02 Apr 2024 08:56:14 +0200</pubDate>
+        <title>El Periódico - Economia</title>
+        <item>
+            <guid isPermaLink="true">100522787</guid>
+            <title>
+                <![CDATA[ La magia de crear agua dulce en el mar ]]>
+            </title>
+            <link>
+                <![CDATA[ https://www.elperiodico.com/es/economia/20240402/magia-crear-agua-dulce-mar-100522787?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia ]]>
+            </link>
+            <pubDate>Tue, 02 Apr 2024 08:31:56 +0200</pubDate>
+            <description>
+                <![CDATA[ <p><img src="https://estaticos-cdn.prensaiberica.es/clip/b4f75042-a199-41c0-a027-59a08e81b369_media-libre-aspect-ratio_default_0.jpg"></p><p>Crear <a href="https://www.elperiodico.com/es/temas/agua-27572">agua </a>dulce en medio del mar no es magia, es <a href="https://www.elperiodico.com/es/temas/ciencia-1837075">ciencia</a>. Aunque parezca lo contrario. Y esa&nbsp;<strong>ciencia llega a través de </strong><strong>tecnología </strong><strong>puntera</strong>&nbsp;como la patentada por la&nbsp;firma redondelana Peter Taboada, fundada en 1979 por Jesús Manuel Taboada Presedo, capitán de la marina mercante conocido como Peter. La compañía, asentada en la Estrada de Porto Cabeiro, en <a href="https://www.elperiodico.com/es/lugares/pontevedra-27875">Pontevedra</a>, puede decir con orgullo que<strong>&nbsp;la mayor desalinizadora diseñada e instalada en un barco lleva su sello</strong>. Pero no es la única. Peter Taboada<strong>&nbsp;ha crecido</strong>&nbsp;con el paso del tiempo y de la misma manera lo ha hecho&nbsp;<strong>su cartera de pedidos</strong>, con encargos para un sinfín de proyectos<strong>&nbsp;que entremezclan defensa, pesca y el turismo de lujo</strong>.</p><p><a href="https://www.elperiodico.com/es/economia/20240402/magia-crear-agua-dulce-mar-100522787?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia">Seguir leyendo...</a>.</p> ]]>
+            </description>
+        </item>
+        <item>
+            <guid isPermaLink="true">99996637</guid>
+            <title>
+                <![CDATA[ Oriol Guixà (FemCat): "Realmente, la administración catalana no es eficiente" ]]>
+            </title>
+            <link>
+                <![CDATA[ https://www.elperiodico.com/es/economia/20240331/oriol-guixa-femcat-realmente-administracion-99996637?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia ]]>
+            </link>
+            <pubDate>Sun, 31 Mar 2024 13:00:49 +0200</pubDate>
+            <description>
+                <![CDATA[ <p><img src="https://estaticos-cdn.prensaiberica.es/clip/c276ba10-b8f9-45f8-b9bf-9747617446b6_media-libre-aspect-ratio_default_0.jpg"></p><p>Oriol Guixà (Barcelona, 1952) se convirtió en enero en presidente de FemCat, una organización que afirma que "ni es lobi ni independentista", como se les califica muchas veces. Presidente del grupo familiar La Farga y que dirige su hija Inka, se muestra preocupado por la posible dilución del espíritu emprendedor catalán si no se apuesta por una comunidad "socialmente sostenible" que integre y critica a los políticos por -, asegura- su falta de decisiones y de eficiencia.</p><p><a href="https://www.elperiodico.com/es/economia/20240331/oriol-guixa-femcat-realmente-administracion-99996637?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia">Seguir leyendo...</a>.</p> ]]>
+            </description>
+        </item>
+    
+        <!--1 noticias Deportes-->
+        <item>
+            <guid isPermaLink="true">98772429</guid>
+            <title>
+                <![CDATA[ Bellingham sigue siendo duda ]]>
+            </title>
+            <link>https://www.sport.es/es/noticias/futbol/bellingham-sigue-duda-98772429?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol</link>
+            <pubDate>Wed, 28 Feb 2024 13:27:24 +0200</pubDate>
+            <description>
+                <![CDATA[ <p>Tras disfrutar de un día de descanso, el Real Madrid volvió este miércoles a entrenar para preparar la visita al Valencia del sábado (21:00 horas), aún con la duda del inglés Jude Bellingham, que sigue trabajando al margen del grupo.</p><a href='https://www.sport.es/es/noticias/futbol/bellingham-sigue-duda-98772429?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol'>Leer la noticia completa</a> ]]>
+            </description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/fb551002-246e-43e7-b346-9fbaf43ac77a_media-libre-aspect-ratio_default_0.jpg">
+            <media:credit/>
+            <media:text/>
+            <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/fb551002-246e-43e7-b346-9fbaf43ac77a_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
+            <media:title>
+                 <![CDATA[ Bellingham aún no está recuperado ]]>
+            </media:title>
+            </media:content>
+            </item>
+    </channel>
+</rss>
