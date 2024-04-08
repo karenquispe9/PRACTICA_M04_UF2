@@ -1,79 +1,78 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<rss version="2.0" xmlns:media="http://search.yahoo.com/mrss/">
     <channel>
-        <!-- 2 noticias Economia-->
-        <description>El Periódico - Todas las noticias de la sección economia</description>
+        <title>Noticias</title>
+        <description>Noticias Variadas</description>
         <language>es</language>
-        <link>https://www.elperiodico.com/es/</link>
-        <pubDate>Tue, 02 Apr 2024 08:56:14 +0200</pubDate>
-        <title>El Periódico - Economia</title>
+        <lastBuildDate>Sat, 06 Apr 2024 12:00:00 GMT</lastBuildDate>
         <item>
-            <guid isPermaLink="true">100522787</guid>
-            <title>
-                <![CDATA[ La magia de crear agua dulce en el mar ]]>
-            </title>
-            <link>
-                <![CDATA[ https://www.elperiodico.com/es/economia/20240402/magia-crear-agua-dulce-mar-100522787?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia ]]>
-            </link>
-            <pubDate>Tue, 02 Apr 2024 08:31:56 +0200</pubDate>
-            <description>
-                <![CDATA[ <p><img src="https://estaticos-cdn.prensaiberica.es/clip/b4f75042-a199-41c0-a027-59a08e81b369_media-libre-aspect-ratio_default_0.jpg"></p><p>Crear <a href="https://www.elperiodico.com/es/temas/agua-27572">agua </a>dulce en medio del mar no es magia, es <a href="https://www.elperiodico.com/es/temas/ciencia-1837075">ciencia</a>. Aunque parezca lo contrario. Y esa&nbsp;<strong>ciencia llega a través de </strong><strong>tecnología </strong><strong>puntera</strong>&nbsp;como la patentada por la&nbsp;firma redondelana Peter Taboada, fundada en 1979 por Jesús Manuel Taboada Presedo, capitán de la marina mercante conocido como Peter. La compañía, asentada en la Estrada de Porto Cabeiro, en <a href="https://www.elperiodico.com/es/lugares/pontevedra-27875">Pontevedra</a>, puede decir con orgullo que<strong>&nbsp;la mayor desalinizadora diseñada e instalada en un barco lleva su sello</strong>. Pero no es la única. Peter Taboada<strong>&nbsp;ha crecido</strong>&nbsp;con el paso del tiempo y de la misma manera lo ha hecho&nbsp;<strong>su cartera de pedidos</strong>, con encargos para un sinfín de proyectos<strong>&nbsp;que entremezclan defensa, pesca y el turismo de lujo</strong>.</p><p><a href="https://www.elperiodico.com/es/economia/20240402/magia-crear-agua-dulce-mar-100522787?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia">Seguir leyendo...</a>.</p> ]]>
-            </description>
+            <title>La magia de crear agua dulce en el mar</title>
+            <link>https://www.elperiodico.com/es/economia/20240402/magia-crear-agua-dulce-mar-100522787?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia</link>
+            <description>Crear agua dulce en medio del mar no es magia, es ciencia. La firma redondelana Peter Taboada, que ha desarrollado tecnología puntera en desalinización, se destaca en el campo.</description>
+            <pubDate date="2024-04-02">Tue, 02 Apr 2024 08:31:56 +0200</pubDate>
+            <guid isPermaLink="false">100522787</guid>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/b4f75042-a199-41c0-a027-59a08e81b369_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
         </item>
         <item>
-            <guid isPermaLink="true">https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html</guid>
             <title>El escaso futuro del pacto fiscal</title>
-            <description></description>
-            <pubDate>24 Mar 2024 06:00:00 +0100</pubDate>
             <link>https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html</link>
-            <enclosure type="image/jpeg" length="3305685" url="https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/23/65ff1e16667e4.jpeg"/>
+            <description><![CDATA[El debate sobre la financiación de Catalunya se presenta como el tema estrella, en el aspecto económico, del debate electoral del 12 de mayo. Tanto ERC como Junts han apostado por la reedición de la propuesta de pacto fiscal... Seguir leyendo...]]></description>
             <category>Economía</category>
-            <dcterms:modified xmlns:dcterms="http://purl.org/dc/terms/">2024-03-24T06:00:00+01:00</dcterms:modified>
-            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Manuel Pérez Arias</dc:creator>
-            <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>El debate sobre la financiación de Catalunya se presenta como el tema estrella, en el aspecto económico, del debate electoral del 12 de mayo. Tanto ERC como Junts han apostado por la reedición de la propuesta de pacto fiscal que formuló el gobierno convergente de Artur Mas, allá por los inicios del <i>procés</i>, a finales del 2012, en aquella reunión de este con el entonces presidente Mariano Rajoy. Una prueba más, para quien necesite aún, de hasta qué punto el debate en Catalunya ha vuelto a una especie de casilla de salida: del pacto para repartir activos y pasivos entre dos estados independientes a la reformulación de las relaciones económicas entre dos territorios integrados en uno. Ahora, tras la batalla de la amnistía, emerge como el gran algodón de la pureza reivindicativa.</p><p><a href="https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html">Seguir leyendo...</a></p>]]></content:encoded>
-            <media:content xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" medium="image" url="https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/23/65ff1e16667e4.jpeg"/>
+            <pubDate date="2024-03-24">24 Mar 2024 06:00:00 +0100</pubDate>
+            <guid>https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html</guid>
         </item>
         
-    
-        <!--3 noticias Deportes-->
-        <item xmlns:media="http://search.yahoo.com/mrss/">
+        <item>
+            <title>Bruselas impulsará la industria de armamento con compras conjuntas, arsenales compatibles y almacenes de emergencia</title>
+            <link>https://elpais.com/internacional/2024-03-28/bruselas-impulsara-la-industria-de-armamento-con-compras-conjuntas-arsenales-compatibles-y-almacenes-de-emergencia.html</link>
+            <description>La nueva estrategia de defensa europea reclama una modificación de las reglas del Banco Europeo de Inversiones para que financie fabricantes de material letal.</description>
+            <pubDate date="2024-02-27">Wed, 27 Feb 2024 12:00:00 +0100</pubDate>
+            <guid isPermaLink="true">https://elpais.com/internacional/2024-03-28/bruselas-impulsara-la-industria-de-armamento-con-compras-conjuntas-arsenales-compatibles-y-almacenes-de-emergencia.html</guid>
+        </item>
+        
+        <item>
             <guid isPermaLink="true">97546389</guid>
-            <title><![CDATA[ Fede Vidal vuelve al banquillo de la selección tras cinco meses apartado por enfermedad ]]></title>
+            <title>Fede Vidal vuelve al banquillo de la selección tras cinco meses apartado por enfermedad</title>
             <link>https://www.sport.es/es/noticias/futbol-sala/fede-vidal-vuelve-banquillo-seleccion-97546389?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
             <pubDate>Tue, 30 Jan 2024 23:48:05 +0200</pubDate>
-            <description><![CDATA[ <p>Fede Vidal, seleccionador nacional de fútbol sala, mostró su satisfacción por volver a ejercer su cargo cinco meses después tras haber superado una enfermedad que motivó que Albert Canillas, técnico de la sub 19 y 21, le relevara en el cargo, y ahora prepara el doble amistoso con la selección de Alemania los días 4 y 6 de febrero.</p><a href='https://www.sport.es/es/noticias/futbol-sala/fede-vidal-vuelve-banquillo-seleccion-97546389?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
-            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/55c3e23d-c572-47dc-a8d9-13fd7a70358c_media-libre-aspect-ratio_default_0.jpg">
-                <media:credit><![CDATA[ @SEFutbol ]]></media:credit>
-                <media:text/>
-                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/55c3e23d-c572-47dc-a8d9-13fd7a70358c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
-                <media:title><![CDATA[ Fede Vidal, durante un entrenamiento reciente ]]></media:title>
-            </media:content>
+            <description>Fede Vidal, seleccionador nacional de fútbol sala, mostró su satisfacción por volver a ejercer su cargo cinco meses después tras haber superado una enfermedad que motivó que Albert Canillas, técnico de la sub 19 y 21, le relevara en el cargo, y ahora prepara el doble amistoso con la selección de Alemania los días 4 y 6 de febrero. Leer la noticia completa.</description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/55c3e23d-c572-47dc-a8d9-13fd7a70358c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
         </item>
+        
         <item>
             <guid isPermaLink="true">96161670</guid>
-            <title><![CDATA[ El pívot brasileño Pito renueva con el Barça hasta 2027 ]]></title>
+            <title>El pívot brasileño Pito renueva con el Barça hasta 2027</title>
             <link>https://www.sport.es/es/noticias/futbol-sala/pivot-brasileno-pito-renueva-barca-96161670?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
             <pubDate>Fri, 22 Dec 2023 13:38:53 +0200</pubDate>
-            <description><![CDATA[ <p>El brasileño Jean Pierre Guisel Costa 'Pito' alcanzó un acuerdo con el Barça para renovar su contrato, que terminaba el próximo 30 de junio, por tres temporadas más, hasta el 30 de junio de 2027, según anunció este viernes la entidad azulgrana.</p><a href='https://www.sport.es/es/noticias/futbol-sala/pivot-brasileno-pito-renueva-barca-96161670?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
-            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/13a00095-842e-4ee2-8bb3-3d5751bdfe7c_media-libre-aspect-ratio_default_0.jpg" xmlns:media="http://search.yahoo.com/mrss/">
-                <media:credit><![CDATA[ FEDERACIÓN LETONA ]]></media:credit>
-                <media:text/>
-                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/13a00095-842e-4ee2-8bb3-3d5751bdfe7c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
-                <media:title><![CDATA[ Pito regresó a lo grande al equipo ]]></media:title>
-            </media:content>
+            <description>El brasileño Jean Pierre Guisel Costa 'Pito' alcanzó un acuerdo con el Barça para renovar su contrato, que terminaba el próximo 30 de junio, por tres temporadas más, hasta el 30 de junio de 2027, según anunció este viernes la entidad azulgrana. Leer la noticia completa.</description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/13a00095-842e-4ee2-8bb3-3d5751bdfe7c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
         </item>
-        <item xmlns:media="http://search.yahoo.com/mrss/">
-            <guid isPermaLink="true">93037838</guid>
-            <title><![CDATA[ España cede un empate en Eslovenia y se complica liderato ]]></title>
-            <link>https://www.sport.es/es/noticias/futbol-sala/espana-cede-empate-eslovenia-complica-93037838?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
-            <pubDate>Sat, 07 Oct 2023 00:37:00 +0200</pubDate>
-            <description><![CDATA[ <p>La Selección española de fútbol sala cedió sus primeros puntos en la Ronda Élite de clasificación para el Mundial de 2024 en Uzbekistán al empatar de forma sorprendente a uno en Liubliana ante Eslovenia. Mantiene el liderato de su grupo con 7 puntos sumados, pero solo uno más que Italia que se impuso por 6-5 a la República Checa y lo que tiene aún que jugar el partido de vuelta.</p><a href='https://www.sport.es/es/noticias/futbol-sala/espana-cede-empate-eslovenia-complica-93037838?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
-            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/5ff62ead-cd13-43bd-9cfc-0822f770ec32_media-libre-aspect-ratio_default_0.jpg">
-                <media:credit><![CDATA[ @sefutbol ]]></media:credit>
-                <media:text/>
-                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/5ff62ead-cd13-43bd-9cfc-0822f770ec32_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
-                <media:title><![CDATA[ Primeros puntos que cede España ]]></media:title>
-            </media:content>
+        
+        <!-- nov-->
+        <item>
+            <title>El Madrid pierde ante el Fenerbahçe su primer partido en la Euroliga: 100-99</title>
+            <link>https://elpais.com/deportes/2024-04-07/el-madrid-pierde-ante-el-fenerbahce-su-primer-partido-en-la-euroliga-100-99.html</link>
+            <description>El conjunto blanco cae en el último segundo de la prórroga tras perder un balón Campazzo, que firmó un gran encuentro con 33 puntos.</description>
+            <pubDate>Mon, 30 Nov 2023 18:00:00 +0200</pubDate>
+            <guid isPermaLink="true">https://elpais.com/deportes/2024-04-07/el-madrid-pierde-ante-el-fenerbahce-su-primer-partido-en-la-euroliga-100-99.html</guid>
+            <category>Baloncesto</category>
+            <author>Juan Morenilla</author>
+        </item>
+        
+          
+        <item>
+            <title>Cultura Taurina - El Mundo</title>
+            <link>https://www.elmundo.es/cultura/toros/</link>
+            <description>Noticias y eventos de la cultura taurina.</description>
+            <item>
+                <title>Recuerdo de Daniel Luque en la Feria de Otoño: una actuación entre la tradición y la controversia</title>
+                <link>https://www.elmundo.es/cultura/toros/2023/10/07/6521750ae9cf4a1c7b8b45cc.html</link>
+                <description>El torero Daniel Luque destaca en la Feria de Otoño, dejando huella con su actuación en el ruedo, entre elogios y críticas por la naturaleza del evento.</description>
+                <category>Cultura</category>
+                <pubDate>Sat, 07 Oct 2023 20:56:00 CEST</pubDate>
+                <guid isPermaLink="true">https://www.elmundo.es/cultura/toros/2023/10/07/6521750ae9cf4a1c7b8b45cc.html</guid>
+                <enclosure url="https://phantom-elmundo.unidadeditorial.es/1d8da0cb3010d7d42777b0a47f6974f2/crop/216x183/941x666/resize/473/f/webp/assets/multimedia/imagenes/2023/10/07/16967048667280.jpg" length="100000" type="image/jpeg"/>
+            </item>
         </item>
         <item>
             <title>Noticias de Espectáculos en Córdoba - ABC</title>
@@ -87,7 +86,7 @@
                 <pubDate>Fri, 29 Sep 2023 23:21:53 CEST</pubDate>
                 <guid isPermaLink="true">https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</guid>
                 <enclosure url="https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/29/pablo-lopez-cordoba(5)-U40555783825QgU-1200x840@abc.jpeg" length="100000" type="image/jpeg"/>
-    </item>
+            </item>
         </item>
         <item>
             <title>Noticias de Chile - El País</title>
