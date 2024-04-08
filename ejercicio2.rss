@@ -21,38 +21,128 @@
             </description>
         </item>
         <item>
-            <guid isPermaLink="true">99996637</guid>
-            <title>
-                <![CDATA[ Oriol Guixà (FemCat): "Realmente, la administración catalana no es eficiente" ]]>
-            </title>
-            <link>
-                <![CDATA[ https://www.elperiodico.com/es/economia/20240331/oriol-guixa-femcat-realmente-administracion-99996637?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia ]]>
-            </link>
-            <pubDate>Sun, 31 Mar 2024 13:00:49 +0200</pubDate>
-            <description>
-                <![CDATA[ <p><img src="https://estaticos-cdn.prensaiberica.es/clip/c276ba10-b8f9-45f8-b9bf-9747617446b6_media-libre-aspect-ratio_default_0.jpg"></p><p>Oriol Guixà (Barcelona, 1952) se convirtió en enero en presidente de FemCat, una organización que afirma que "ni es lobi ni independentista", como se les califica muchas veces. Presidente del grupo familiar La Farga y que dirige su hija Inka, se muestra preocupado por la posible dilución del espíritu emprendedor catalán si no se apuesta por una comunidad "socialmente sostenible" que integre y critica a los políticos por -, asegura- su falta de decisiones y de eficiencia.</p><p><a href="https://www.elperiodico.com/es/economia/20240331/oriol-guixa-femcat-realmente-administracion-99996637?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=economia">Seguir leyendo...</a>.</p> ]]>
-            </description>
+            <guid isPermaLink="true">https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html</guid>
+            <title>El escaso futuro del pacto fiscal</title>
+            <description></description>
+            <pubDate>24 Mar 2024 06:00:00 +0100</pubDate>
+            <link>https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html</link>
+            <enclosure type="image/jpeg" length="3305685" url="https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/23/65ff1e16667e4.jpeg"/>
+            <category>Economía</category>
+            <dcterms:modified xmlns:dcterms="http://purl.org/dc/terms/">2024-03-24T06:00:00+01:00</dcterms:modified>
+            <dc:creator xmlns:dc="http://purl.org/dc/elements/1.1/">Manuel Pérez Arias</dc:creator>
+            <content:encoded xmlns:content="http://purl.org/rss/1.0/modules/content/"><![CDATA[<p>El debate sobre la financiación de Catalunya se presenta como el tema estrella, en el aspecto económico, del debate electoral del 12 de mayo. Tanto ERC como Junts han apostado por la reedición de la propuesta de pacto fiscal que formuló el gobierno convergente de Artur Mas, allá por los inicios del <i>procés</i>, a finales del 2012, en aquella reunión de este con el entonces presidente Mariano Rajoy. Una prueba más, para quien necesite aún, de hasta qué punto el debate en Catalunya ha vuelto a una especie de casilla de salida: del pacto para repartir activos y pasivos entre dos estados independientes a la reformulación de las relaciones económicas entre dos territorios integrados en uno. Ahora, tras la batalla de la amnistía, emerge como el gran algodón de la pureza reivindicativa.</p><p><a href="https://www.lavanguardia.com/economia/20240324/9581040/escaso-futuro-pacto-fiscal.html">Seguir leyendo...</a></p>]]></content:encoded>
+            <media:content xmlns:media="http://search.yahoo.com/mrss/" type="image/jpeg" medium="image" url="https://www.lavanguardia.com/files/og_thumbnail/uploads/2024/03/23/65ff1e16667e4.jpeg"/>
         </item>
+        
     
-        <!--1 noticias Deportes-->
-        <item>
-            <guid isPermaLink="true">98772429</guid>
-            <title>
-                <![CDATA[ Bellingham sigue siendo duda ]]>
-            </title>
-            <link>https://www.sport.es/es/noticias/futbol/bellingham-sigue-duda-98772429?utm_source=rss-noticias&utm_medium=feed&utm_campaign=futbol</link>
-            <pubDate>Wed, 28 Feb 2024 13:27:24 +0200</pubDate>
-            <description>
-                <![CDATA[ <p>Tras disfrutar de un día de descanso, el Real Madrid volvió este miércoles a entrenar para preparar la visita al Valencia del sábado (21:00 horas), aún con la duda del inglés Jude Bellingham, que sigue trabajando al margen del grupo.</p><a href='https://www.sport.es/es/noticias/futbol/bellingham-sigue-duda-98772429?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol'>Leer la noticia completa</a> ]]>
-            </description>
-            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/fb551002-246e-43e7-b346-9fbaf43ac77a_media-libre-aspect-ratio_default_0.jpg">
-            <media:credit/>
-            <media:text/>
-            <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/fb551002-246e-43e7-b346-9fbaf43ac77a_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
-            <media:title>
-                 <![CDATA[ Bellingham aún no está recuperado ]]>
-            </media:title>
+        <!--3 noticias Deportes-->
+        <item xmlns:media="http://search.yahoo.com/mrss/">
+            <guid isPermaLink="true">97546389</guid>
+            <title><![CDATA[ Fede Vidal vuelve al banquillo de la selección tras cinco meses apartado por enfermedad ]]></title>
+            <link>https://www.sport.es/es/noticias/futbol-sala/fede-vidal-vuelve-banquillo-seleccion-97546389?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
+            <pubDate>Tue, 30 Jan 2024 23:48:05 +0200</pubDate>
+            <description><![CDATA[ <p>Fede Vidal, seleccionador nacional de fútbol sala, mostró su satisfacción por volver a ejercer su cargo cinco meses después tras haber superado una enfermedad que motivó que Albert Canillas, técnico de la sub 19 y 21, le relevara en el cargo, y ahora prepara el doble amistoso con la selección de Alemania los días 4 y 6 de febrero.</p><a href='https://www.sport.es/es/noticias/futbol-sala/fede-vidal-vuelve-banquillo-seleccion-97546389?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/55c3e23d-c572-47dc-a8d9-13fd7a70358c_media-libre-aspect-ratio_default_0.jpg">
+                <media:credit><![CDATA[ @SEFutbol ]]></media:credit>
+                <media:text/>
+                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/55c3e23d-c572-47dc-a8d9-13fd7a70358c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
+                <media:title><![CDATA[ Fede Vidal, durante un entrenamiento reciente ]]></media:title>
             </media:content>
+        </item>
+        <item>
+            <guid isPermaLink="true">96161670</guid>
+            <title><![CDATA[ El pívot brasileño Pito renueva con el Barça hasta 2027 ]]></title>
+            <link>https://www.sport.es/es/noticias/futbol-sala/pivot-brasileno-pito-renueva-barca-96161670?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
+            <pubDate>Fri, 22 Dec 2023 13:38:53 +0200</pubDate>
+            <description><![CDATA[ <p>El brasileño Jean Pierre Guisel Costa 'Pito' alcanzó un acuerdo con el Barça para renovar su contrato, que terminaba el próximo 30 de junio, por tres temporadas más, hasta el 30 de junio de 2027, según anunció este viernes la entidad azulgrana.</p><a href='https://www.sport.es/es/noticias/futbol-sala/pivot-brasileno-pito-renueva-barca-96161670?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/13a00095-842e-4ee2-8bb3-3d5751bdfe7c_media-libre-aspect-ratio_default_0.jpg" xmlns:media="http://search.yahoo.com/mrss/">
+                <media:credit><![CDATA[ FEDERACIÓN LETONA ]]></media:credit>
+                <media:text/>
+                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/13a00095-842e-4ee2-8bb3-3d5751bdfe7c_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
+                <media:title><![CDATA[ Pito regresó a lo grande al equipo ]]></media:title>
+            </media:content>
+        </item>
+        <item xmlns:media="http://search.yahoo.com/mrss/">
+            <guid isPermaLink="true">93037838</guid>
+            <title><![CDATA[ España cede un empate en Eslovenia y se complica liderato ]]></title>
+            <link>https://www.sport.es/es/noticias/futbol-sala/espana-cede-empate-eslovenia-complica-93037838?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala</link>
+            <pubDate>Sat, 07 Oct 2023 00:37:00 +0200</pubDate>
+            <description><![CDATA[ <p>La Selección española de fútbol sala cedió sus primeros puntos en la Ronda Élite de clasificación para el Mundial de 2024 en Uzbekistán al empatar de forma sorprendente a uno en Liubliana ante Eslovenia. Mantiene el liderato de su grupo con 7 puntos sumados, pero solo uno más que Italia que se impuso por 6-5 a la República Checa y lo que tiene aún que jugar el partido de vuelta.</p><a href='https://www.sport.es/es/noticias/futbol-sala/espana-cede-empate-eslovenia-complica-93037838?utm_source=rss-noticias&amp;utm_medium=feed&amp;utm_campaign=futbol-sala'>Leer la noticia completa</a> ]]></description>
+            <media:content url="https://estaticos-cdn.prensaiberica.es/clip/5ff62ead-cd13-43bd-9cfc-0822f770ec32_media-libre-aspect-ratio_default_0.jpg">
+                <media:credit><![CDATA[ @sefutbol ]]></media:credit>
+                <media:text/>
+                <media:thumbnail url="https://estaticos-cdn.prensaiberica.es/clip/5ff62ead-cd13-43bd-9cfc-0822f770ec32_media-libre-aspect-ratio_default_0.jpg" type="image/jpeg"/>
+                <media:title><![CDATA[ Primeros puntos que cede España ]]></media:title>
+            </media:content>
+        </item>
+        <item>
+            <title>Noticias de Espectáculos en Córdoba - ABC</title>
+            <link>https://www.abc.es/espana/andalucia/cordoba/</link>
+            <description>Cobertura de eventos y espectáculos en Córdoba.</description>
+            <item>
+                <title>El vibrante concierto de Pablo López en Córdoba</title>
+                <link>https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</link>
+                <description>Pablo López entusiasma a sus seguidores con un espectacular concierto en el Teatro de la Axerquía, un evento memorable para la ciudad de Córdoba.</description>
+                <category>Cultura</category>
+                <pubDate>Fri, 29 Sep 2023 23:21:53 CEST</pubDate>
+                <guid isPermaLink="true">https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</guid>
+                <enclosure url="https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/29/pablo-lopez-cordoba(5)-U40555783825QgU-1200x840@abc.jpeg" length="100000" type="image/jpeg"/>
+    </item>
+        </item>
+        <item>
+            <title>Noticias de Chile - El País</title>
+            <link>https://elpais.com/chile/</link>
+            <description>Noticias políticas destacadas de Chile.</description>
+            <item>
+                <title>Boric hace declaraciones controversiales referentes a la política y un caso histórico</title>
+                <link>https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</link>
+                <description>El presidente de Chile, Gabriel Boric, ha provocado reacciones con comentarios sobre un caso emblemático de justicia para un músico célebre.</description>
+                <category>Política</category>
+                <pubDate>Wed, 30 Aug 2023 23:50:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</guid>
             </item>
+        </item>
+        <item>
+            <title>Noticias de Política - El País</title>
+            <link>https://elpais.com/espana/comunidad-valenciana/</link>
+            <description>Noticias políticas recientes de la Comunidad Valenciana.</description>
+            <item>
+                <title>Puig afirma que hay esperanza en las futuras elecciones y se considera leal a Sánchez</title>
+                <link>https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</link>
+                <description>El presidente de la Generalitat Valenciana expresa su apoyo continuo y habla sobre la justicia en el trato a Sánchez en la política actual.</description>
+                <category>Política</category>
+                <pubDate>Mon, 03 Jul 2023 22:51:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/HPKyJhELumnMCPXevtlomt_e7IY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ3PN5IM2NI5B2YXJ3DM4ABPJM.jpg" length="100000" type="image/jpeg"/>
+            </item>
+        </item>
+        <item>
+            <title>Noticias de México - El País</title>
+            <link>https://elpais.com/mexico/</link>
+            <description>Recopilación de las noticias más importantes de México proporcionadas por El País.</description>
+            <item>
+                <title>Un juez de Ciudad de México ordena a la Conade que devuelva las becas a las nadadoras</title>
+                <link>https://elpais.com/mexico/2023-06-06/un-juez-de-ciudad-de-mexico-ordena-a-la-conade-que-devuelva-las-becas-a-las-nadadoras.html</link>
+                <description>La Conade ha recibido una orden judicial para restituir las becas a las atletas de natación después de la suspensión de fondos debido a acusaciones de malversación.</description>
+                <category>Deportes</category>
+                <pubDate>Tue, 06 Jun 2023 23:32:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/mexico/2023-06-06/un-juez-de-ciudad-de-mexico-ordena-a-la-conade-que-devuelva-las-becas-a-las-nadadoras.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/nSPnj_6Vjz44XPkXQKJD4Us26Pc=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/S7IGA3NNONDBZPDDOJSGE5MENA.jpg" length="100000" type="image/jpeg"/>
+            </item>
+        </item>
+        <item>
+            <title>Noticias de Economía - El País</title>
+            <link>https://elpais.com/economia/</link>
+            <description>Recopilación de noticias económicas de El País.</description>
+            <item>
+                <title>El banco PacWest Bancorp se hunde en Bolsa mientras estudia opciones de supervivencia</title>
+                <link>https://elpais.com/economia/2023-05-03/el-banco-pacwest-bancorp-se-hunde-en-bolsa-mientras-estudia-opciones-de-supervivencia.html</link>
+                <description>El banco PacWest Bancorp experimenta una caída drástica en la bolsa, con implicaciones significativas para el sector bancario mediano.</description>
+                <category>Economía</category>
+                <pubDate>Wed, 03 May 2023 23:54:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/economia/2023-05-03/el-banco-pacwest-bancorp-se-hunde-en-bolsa-mientras-estudia-opciones-de-supervivencia.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/HPKyJhELumnMCPXevtlomt_e7IY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ3PN5IM2NI5B2YXJ3DM4ABPJM.jpg" length="100000" type="image/jpeg"/>
+             </item>
+        </item>
     </channel>
 </rss>
