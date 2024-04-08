@@ -75,7 +75,74 @@
                 <media:title><![CDATA[ Primeros puntos que cede España ]]></media:title>
             </media:content>
         </item>
-                
-        
+        <item>
+            <title>Noticias de Espectáculos en Córdoba - ABC</title>
+            <link>https://www.abc.es/espana/andalucia/cordoba/</link>
+            <description>Cobertura de eventos y espectáculos en Córdoba.</description>
+            <item>
+                <title>El vibrante concierto de Pablo López en Córdoba</title>
+                <link>https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</link>
+                <description>Pablo López entusiasma a sus seguidores con un espectacular concierto en el Teatro de la Axerquía, un evento memorable para la ciudad de Córdoba.</description>
+                <category>Cultura</category>
+                <pubDate>Fri, 29 Sep 2023 23:21:53 CEST</pubDate>
+                <guid isPermaLink="true">https://www.abc.es/espana/andalucia/cordoba/fotos-concierto-pablo-lopez-cordoba-20230929232153-gas.html</guid>
+                <enclosure url="https://s2.abcstatics.com/abc/www/multimedia/espana/2023/09/29/pablo-lopez-cordoba(5)-U40555783825QgU-1200x840@abc.jpeg" length="100000" type="image/jpeg"/>
+    </item>
+        </item>
+        <item>
+            <title>Noticias de Chile - El País</title>
+            <link>https://elpais.com/chile/</link>
+            <description>Noticias políticas destacadas de Chile.</description>
+            <item>
+                <title>Boric hace declaraciones controversiales referentes a la política y un caso histórico</title>
+                <link>https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</link>
+                <description>El presidente de Chile, Gabriel Boric, ha provocado reacciones con comentarios sobre un caso emblemático de justicia para un músico célebre.</description>
+                <category>Política</category>
+                <pubDate>Wed, 30 Aug 2023 23:50:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/chile/2023-08-30/otros-mueren-de-manera-cobarde-boric-agita-la-politica-con-una-alusion-al-suicidio-del-exmilitar-condenado-por-el-homicidio-de-victor-jara.html</guid>
+            </item>
+        </item>
+        <item>
+            <title>Noticias de Política - El País</title>
+            <link>https://elpais.com/espana/comunidad-valenciana/</link>
+            <description>Noticias políticas recientes de la Comunidad Valenciana.</description>
+            <item>
+                <title>Puig afirma que hay esperanza en las futuras elecciones y se considera leal a Sánchez</title>
+                <link>https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</link>
+                <description>El presidente de la Generalitat Valenciana expresa su apoyo continuo y habla sobre la justicia en el trato a Sánchez en la política actual.</description>
+                <category>Política</category>
+                <pubDate>Mon, 03 Jul 2023 22:51:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/espana/comunidad-valenciana/2023-07-03/puig-cree-que-hay-partido-el-23-j-y-que-a-sanchez-se-le-ha-tratado-muy-injustamente-soy-mas-pedrista-que-nunca.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/HPKyJhELumnMCPXevtlomt_e7IY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ3PN5IM2NI5B2YXJ3DM4ABPJM.jpg" length="100000" type="image/jpeg"/>
+            </item>
+        </item>
+        <item>
+            <title>Noticias de México - El País</title>
+            <link>https://elpais.com/mexico/</link>
+            <description>Recopilación de las noticias más importantes de México proporcionadas por El País.</description>
+            <item>
+                <title>Un juez de Ciudad de México ordena a la Conade que devuelva las becas a las nadadoras</title>
+                <link>https://elpais.com/mexico/2023-06-06/un-juez-de-ciudad-de-mexico-ordena-a-la-conade-que-devuelva-las-becas-a-las-nadadoras.html</link>
+                <description>La Conade ha recibido una orden judicial para restituir las becas a las atletas de natación después de la suspensión de fondos debido a acusaciones de malversación.</description>
+                <category>Deportes</category>
+                <pubDate>Tue, 06 Jun 2023 23:32:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/mexico/2023-06-06/un-juez-de-ciudad-de-mexico-ordena-a-la-conade-que-devuelva-las-becas-a-las-nadadoras.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/nSPnj_6Vjz44XPkXQKJD4Us26Pc=/1960x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/S7IGA3NNONDBZPDDOJSGE5MENA.jpg" length="100000" type="image/jpeg"/>
+            </item>
+        </item>
+        <item>
+            <title>Noticias de Economía - El País</title>
+            <link>https://elpais.com/economia/</link>
+            <description>Recopilación de noticias económicas de El País.</description>
+            <item>
+                <title>El banco PacWest Bancorp se hunde en Bolsa mientras estudia opciones de supervivencia</title>
+                <link>https://elpais.com/economia/2023-05-03/el-banco-pacwest-bancorp-se-hunde-en-bolsa-mientras-estudia-opciones-de-supervivencia.html</link>
+                <description>El banco PacWest Bancorp experimenta una caída drástica en la bolsa, con implicaciones significativas para el sector bancario mediano.</description>
+                <category>Economía</category>
+                <pubDate>Wed, 03 May 2023 23:54:00 CEST</pubDate>
+                <guid isPermaLink="true">https://elpais.com/economia/2023-05-03/el-banco-pacwest-bancorp-se-hunde-en-bolsa-mientras-estudia-opciones-de-supervivencia.html</guid>
+                <enclosure url="https://imagenes.elpais.com/resizer/HPKyJhELumnMCPXevtlomt_e7IY=/1200x0/cloudfront-eu-central-1.images.arcpublishing.com/prisa/AQ3PN5IM2NI5B2YXJ3DM4ABPJM.jpg" length="100000" type="image/jpeg"/>
+             </item>
+        </item>
     </channel>
 </rss>
