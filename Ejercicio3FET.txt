@@ -1,0 +1,26 @@
+Ejercicio #3: XPath
+Una vez validado, utiliza XPath para buscar en el archivo RSS las siguientes consultas:
+
+
+a) Muestra todas las noticias que estén entre los meses de Noviembre y Febrero (incluidos los 
+dos).
+
+/rss/channel/item[number(substring(pubDate, 6, 2)) >= 11 or number(substring(pubDate, 6, 2)) <= 2]
+
+
+b) Muestra sólo el texto de las fechas de publicación de las noticias que sean del mismo año que 
+la primera noticia del tema “Deportes”.
+
+/rss/channel/item[substring(pubDate, 22, 4) = substring(/rss/channel/item[category='Deportes'][1]/pubDate, 22, 4)]/pubDate/text()
+
+
+c) Muestra los títulos (con los tags) de las noticias que tengan la misma categoría que la noticia 
+más nueva.
+
+/rss/channel/item[category = /rss/channel/item[not(substring(pubDate, 1, 20) > substring(current-date(), 1, 20))][1]/category]/title
+
+
+d) Muestra los títulos y los links (ambos con los tags) de las noticias con imágenes dentro de la 
+descripción
+
+/rss/channel/item[contains(description, '<img')]/concat('<title>', title, '</title><link>', link, '</link>')
